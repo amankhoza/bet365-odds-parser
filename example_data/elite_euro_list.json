@@ -1,8 +1,8 @@
 [{
     "Full Time Result": {
-        "1": "2/7",
-        "X": "19/4",
-        "2": "8/1"
+        "1": "1.28",
+        "X": "5.75",
+        "2": "9.00"
     },
     "name": "Barcelona v Sporting",
     "home": "Barcelona",
@@ -15,9 +15,9 @@
     "teams": ["Barcelona", "Sporting"]
 }, {
     "Full Time Result": {
-        "1": "6/4",
-        "X": "5/2",
-        "2": "13/8"
+        "1": "2.50",
+        "X": "3.50",
+        "2": "2.62"
     },
     "name": "Bayern Munich v PSG",
     "home": "Bayern Munich",
@@ -30,9 +30,9 @@
     "teams": ["Bayern Munich", "PSG"]
 }, {
     "Full Time Result": {
-        "1": "15/8",
-        "X": "12/5",
-        "2": "11/8"
+        "1": "2.87",
+        "X": "3.40",
+        "2": "2.37"
     },
     "name": "Benfica v Basel",
     "home": "Benfica",
@@ -45,9 +45,9 @@
     "teams": ["Benfica", "Basel"]
 }, {
     "Full Time Result": {
-        "1": "4/5",
-        "X": "14/5",
-        "2": "3/1"
+        "1": "1.80",
+        "X": "3.80",
+        "2": "4.00"
     },
     "name": "Celtic v Anderlecht",
     "home": "Celtic",
@@ -60,9 +60,9 @@
     "teams": ["Celtic", "Anderlecht"]
 }, {
     "Full Time Result": {
-        "1": "1/1",
-        "X": "13/5",
-        "2": "5/2"
+        "1": "2.00",
+        "X": "3.60",
+        "2": "3.50"
     },
     "name": "Chelsea v Atletico Madrid",
     "home": "Chelsea",
@@ -75,9 +75,9 @@
     "teams": ["Chelsea", "Atletico Madrid"]
 }, {
     "Full Time Result": {
-        "1": "1/3",
-        "X": "4/1",
-        "2": "8/1"
+        "1": "1.33",
+        "X": "5.00",
+        "2": "9.00"
     },
     "name": "Man Utd v CSKA Moscow",
     "home": "Man Utd",
@@ -90,9 +90,9 @@
     "teams": ["Man Utd", "CSKA Moscow"]
 }, {
     "Full Time Result": {
-        "1": "12/1",
-        "X": "11/2",
-        "2": "1/5"
+        "1": "13.00",
+        "X": "6.50",
+        "2": "1.20"
     },
     "name": "Olympiakos v Juventus",
     "home": "Olympiakos",
@@ -105,9 +105,9 @@
     "teams": ["Olympiakos", "Juventus"]
 }, {
     "Full Time Result": {
-        "1": "1/10",
-        "X": "8/1",
-        "2": "20/1"
+        "1": "1.10",
+        "X": "9.00",
+        "2": "21.00"
     },
     "name": "Roma v FK Qarabag",
     "home": "Roma",
@@ -120,9 +120,9 @@
     "teams": ["Roma", "FK Qarabag"]
 }, {
     "Full Time Result": {
-        "1": "1/3",
-        "X": "17/4",
-        "2": "7/1"
+        "1": "1.33",
+        "X": "5.25",
+        "2": "8.00"
     },
     "name": "FC Porto v Monaco",
     "home": "FC Porto",
@@ -135,9 +135,9 @@
     "teams": ["FC Porto", "Monaco"]
 }, {
     "Full Time Result": {
-        "1": "10/1",
-        "X": "11/2",
-        "2": "2/9"
+        "1": "11.00",
+        "X": "6.50",
+        "2": "1.22"
     },
     "name": "Feyenoord v Napoli",
     "home": "Feyenoord",
@@ -150,9 +150,9 @@
     "teams": ["Feyenoord", "Napoli"]
 }, {
     "Full Time Result": {
-        "1": "1/4",
-        "X": "5/1",
-        "2": "9/1"
+        "1": "1.25",
+        "X": "6.00",
+        "2": "10.00"
     },
     "name": "Liverpool v Spartak Moscow",
     "home": "Liverpool",
@@ -165,9 +165,9 @@
     "teams": ["Liverpool", "Spartak Moscow"]
 }, {
     "Full Time Result": {
-        "1": "14/1",
-        "X": "6/1",
-        "2": "1/6"
+        "1": "15.00",
+        "X": "7.00",
+        "2": "1.16"
     },
     "name": "NK Maribor v Sevilla",
     "home": "NK Maribor",
@@ -180,9 +180,9 @@
     "teams": ["NK Maribor", "Sevilla"]
 }, {
     "Full Time Result": {
-        "1": "3/10",
-        "X": "17/4",
-        "2": "17/2"
+        "1": "1.30",
+        "X": "5.25",
+        "2": "9.50"
     },
     "name": "RB Leipzig v Besiktas",
     "home": "RB Leipzig",
@@ -195,9 +195,9 @@
     "teams": ["RB Leipzig", "Besiktas"]
 }, {
     "Full Time Result": {
-        "1": "9/20",
-        "X": "15/4",
-        "2": "5/1"
+        "1": "1.45",
+        "X": "4.75",
+        "2": "6.00"
     },
     "name": "Real Madrid v Borussia Dortmund",
     "home": "Real Madrid",
@@ -210,9 +210,9 @@
     "teams": ["Real Madrid", "Borussia Dortmund"]
 }, {
     "Full Time Result": {
-        "1": "13/10",
-        "X": "12/5",
-        "2": "2/1"
+        "1": "2.30",
+        "X": "3.40",
+        "2": "3.00"
     },
     "name": "Shakhtar Donetsk v Man City",
     "home": "Shakhtar Donetsk",
@@ -225,9 +225,9 @@
     "teams": ["Shakhtar Donetsk", "Man City"]
 }, {
     "Full Time Result": {
-        "1": "1/6",
-        "X": "15/2",
-        "2": "10/1"
+        "1": "1.16",
+        "X": "8.50",
+        "2": "11.00"
     },
     "name": "Tottenham v Apoel Nicosia",
     "home": "Tottenham",
@@ -240,9 +240,9 @@
     "teams": ["Tottenham", "Apoel Nicosia"]
 }, {
     "Full Time Result": {
-        "1": "19/10",
-        "X": "9/4",
-        "2": "7/5"
+        "1": "2.90",
+        "X": "3.25",
+        "2": "2.40"
     },
     "name": "Apollon Limassol v Everton",
     "home": "Apollon Limassol",
@@ -255,9 +255,9 @@
     "teams": ["Apollon Limassol", "Everton"]
 }, {
     "Full Time Result": {
-        "1": "7/5",
-        "X": "9/4",
-        "2": "19/10"
+        "1": "2.40",
+        "X": "3.25",
+        "2": "2.90"
     },
     "name": "Atalanta v Lyon",
     "home": "Atalanta",
@@ -270,9 +270,9 @@
     "teams": ["Atalanta", "Lyon"]
 }, {
     "Full Time Result": {
-        "1": "7/10",
-        "X": "13/5",
-        "2": "4/1"
+        "1": "1.70",
+        "X": "3.60",
+        "2": "5.00"
     },
     "name": "Dynamo Kiev v Partizan Belgrade",
     "home": "Dynamo Kiev",
@@ -285,9 +285,9 @@
     "teams": ["Dynamo Kiev", "Partizan Belgrade"]
 }, {
     "Full Time Result": {
-        "1": "4/7",
-        "X": "11/4",
-        "2": "5/1"
+        "1": "1.57",
+        "X": "3.75",
+        "2": "6.00"
     },
     "name": "FC Copenhagen v Sheriff Tiraspol",
     "home": "FC Copenhagen",
@@ -300,9 +300,9 @@
     "teams": ["FC Copenhagen", "Sheriff Tiraspol"]
 }, {
     "Full Time Result": {
-        "1": "9/2",
-        "X": "11/4",
-        "2": "8/13"
+        "1": "5.50",
+        "X": "3.75",
+        "2": "1.61"
     },
     "name": "FC Fastav Zl\u00edn v Lokomotiv Moscow",
     "home": "FC Fastav Zl\u00edn",
@@ -315,9 +315,9 @@
     "teams": ["FC Fastav Zl\u00edn", "Lokomotiv Moscow"]
 }, {
     "Full Time Result": {
-        "1": "13/8",
-        "X": "9/4",
-        "2": "13/8"
+        "1": "2.62",
+        "X": "3.25",
+        "2": "2.62"
     },
     "name": "FK Austria Vienna v AEK Athens",
     "home": "FK Austria Vienna",
@@ -330,9 +330,9 @@
     "teams": ["FK Austria Vienna", "AEK Athens"]
 }, {
     "Full Time Result": {
-        "1": "12/5",
-        "X": "23/10",
-        "2": "23/20"
+        "1": "3.40",
+        "X": "3.30",
+        "2": "2.15"
     },
     "name": "HNK Rijeka v AC Milan",
     "home": "HNK Rijeka",
@@ -345,9 +345,9 @@
     "teams": ["HNK Rijeka", "AC Milan"]
 }, {
     "Full Time Result": {
-        "1": "4/5",
-        "X": "13/5",
-        "2": "10/3"
+        "1": "1.80",
+        "X": "3.60",
+        "2": "4.33"
     },
     "name": "Istanbul Basaksehir v Braga",
     "home": "Istanbul Basaksehir",
@@ -360,9 +360,9 @@
     "teams": ["Istanbul Basaksehir", "Braga"]
 }, {
     "Full Time Result": {
-        "1": "8/11",
-        "X": "5/2",
-        "2": "4/1"
+        "1": "1.72",
+        "X": "3.50",
+        "2": "5.00"
     },
     "name": "Slavia Prague v FC Astana",
     "home": "Slavia Prague",
@@ -375,9 +375,9 @@
     "teams": ["Slavia Prague", "FC Astana"]
 }, {
     "Full Time Result": {
-        "1": "11/10",
-        "X": "23/10",
-        "2": "5/2"
+        "1": "2.10",
+        "X": "3.30",
+        "2": "3.50"
     },
     "name": "TSG Hoffenheim v Ludogorets Razgrad",
     "home": "TSG Hoffenheim",
@@ -390,9 +390,9 @@
     "teams": ["TSG Hoffenheim", "Ludogorets Razgrad"]
 }, {
     "Full Time Result": {
-        "1": "3/10",
-        "X": "4/1",
-        "2": "9/1"
+        "1": "1.30",
+        "X": "5.00",
+        "2": "10.00"
     },
     "name": "Villarreal v Maccabi Tel Aviv",
     "home": "Villarreal",
@@ -405,9 +405,9 @@
     "teams": ["Villarreal", "Maccabi Tel Aviv"]
 }, {
     "Full Time Result": {
-        "1": "4/7",
-        "X": "3/1",
-        "2": "19/4"
+        "1": "1.57",
+        "X": "4.00",
+        "2": "5.75"
     },
     "name": "Young Boys v Skenderbeu",
     "home": "Young Boys",
@@ -420,9 +420,9 @@
     "teams": ["Young Boys", "Skenderbeu"]
 }, {
     "Full Time Result": {
-        "1": "4/11",
-        "X": "17/4",
-        "2": "6/1"
+        "1": "1.36",
+        "X": "5.25",
+        "2": "7.00"
     },
     "name": "Arsenal v BATE Borisov",
     "home": "Arsenal",
@@ -435,9 +435,9 @@
     "teams": ["Arsenal", "BATE Borisov"]
 }, {
     "Full Time Result": {
-        "1": "2/5",
-        "X": "7/2",
-        "2": "13/2"
+        "1": "1.40",
+        "X": "4.50",
+        "2": "7.50"
     },
     "name": "FCSB v Lugano",
     "home": "FCSB",
@@ -450,9 +450,9 @@
     "teams": ["FCSB", "Lugano"]
 }, {
     "Full Time Result": {
-        "1": "5/4",
-        "X": "11/5",
-        "2": "9/4"
+        "1": "2.25",
+        "X": "3.20",
+        "2": "3.25"
     },
     "name": "Guimaraes v Konyaspor",
     "home": "Guimaraes",
@@ -465,9 +465,9 @@
     "teams": ["Guimaraes", "Konyaspor"]
 }, {
     "Full Time Result": {
-        "1": "5/2",
-        "X": "23/10",
-        "2": "11/10"
+        "1": "3.50",
+        "X": "3.30",
+        "2": "2.10"
     },
     "name": "Hapoel Beer Sheva v Viktoria Plzen",
     "home": "Hapoel Beer Sheva",
@@ -480,9 +480,9 @@
     "teams": ["Hapoel Beer Sheva", "Viktoria Plzen"]
 }, {
     "Full Time Result": {
-        "1": "1/1",
-        "X": "23/10",
-        "2": "11/4"
+        "1": "2.00",
+        "X": "3.30",
+        "2": "3.75"
     },
     "name": "Hertha Berlin v Ostersunds FK",
     "home": "Hertha Berlin",
@@ -495,9 +495,9 @@
     "teams": ["Hertha Berlin", "Ostersunds FK"]
 }, {
     "Full Time Result": {
-        "1": "4/7",
-        "X": "14/5",
-        "2": "5/1"
+        "1": "1.57",
+        "X": "3.80",
+        "2": "6.00"
     },
     "name": "Marseille v FC Salzburg",
     "home": "Marseille",
@@ -510,9 +510,9 @@
     "teams": ["Marseille", "FC Salzburg"]
 }, {
     "Full Time Result": {
-        "1": "23/20",
-        "X": "23/10",
-        "2": "12/5"
+        "1": "2.15",
+        "X": "3.30",
+        "2": "3.40"
     },
     "name": "Real Sociedad v Zenit St Petersburg",
     "home": "Real Sociedad",
@@ -525,9 +525,9 @@
     "teams": ["Real Sociedad", "Zenit St Petersburg"]
 }, {
     "Full Time Result": {
-        "1": "11/8",
-        "X": "21/10",
-        "2": "21/10"
+        "1": "2.37",
+        "X": "3.10",
+        "2": "3.10"
     },
     "name": "Red Star Belgrade v Cologne",
     "home": "Red Star Belgrade",
@@ -540,9 +540,9 @@
     "teams": ["Red Star Belgrade", "Cologne"]
 }, {
     "Full Time Result": {
-        "1": "11/4",
-        "X": "12/5",
-        "2": "1/1"
+        "1": "3.75",
+        "X": "3.40",
+        "2": "2.00"
     },
     "name": "Vardar Skopje v Rosenborg",
     "home": "Vardar Skopje",
@@ -555,9 +555,9 @@
     "teams": ["Vardar Skopje", "Rosenborg"]
 }, {
     "Full Time Result": {
-        "1": "9/5",
-        "X": "23/10",
-        "2": "29/20"
+        "1": "2.80",
+        "X": "3.30",
+        "2": "2.45"
     },
     "name": "Vitesse v Nice",
     "home": "Vitesse",
@@ -570,9 +570,9 @@
     "teams": ["Vitesse", "Nice"]
 }, {
     "Full Time Result": {
-        "1": "4/1",
-        "X": "5/2",
-        "2": "8/11"
+        "1": "5.00",
+        "X": "3.50",
+        "2": "1.72"
     },
     "name": "Zorya v Athletic Bilbao",
     "home": "Zorya",
@@ -585,9 +585,9 @@
     "teams": ["Zorya", "Athletic Bilbao"]
 }, {
     "Full Time Result": {
-        "1": "12/5",
-        "X": "12/5",
-        "2": "11/10"
+        "1": "3.40",
+        "X": "3.40",
+        "2": "2.10"
     },
     "name": "Zulte-Waregem v Lazio",
     "home": "Zulte-Waregem",
@@ -600,9 +600,9 @@
     "teams": ["Zulte-Waregem", "Lazio"]
 }, {
     "Full Time Result": {
-        "1": "2/7",
-        "X": "5/1",
-        "2": "12/1"
+        "1": "1.28",
+        "X": "6.00",
+        "2": "13.00"
     },
     "name": "Chelsea v Newcastle",
     "home": "Chelsea",
@@ -615,9 +615,9 @@
     "teams": ["Chelsea", "Newcastle"]
 }, {
     "Full Time Result": {
-        "1": "13/2",
-        "X": "7/2",
-        "2": "1/2"
+        "1": "7.50",
+        "X": "4.50",
+        "2": "1.50"
     },
     "name": "Brighton v Liverpool",
     "home": "Brighton",
@@ -630,9 +630,9 @@
     "teams": ["Brighton", "Liverpool"]
 }, {
     "Full Time Result": {
-        "1": "7/10",
-        "X": "14/5",
-        "2": "19/4"
+        "1": "1.70",
+        "X": "3.80",
+        "2": "5.75"
     },
     "name": "Everton v Huddersfield",
     "home": "Everton",
@@ -645,9 +645,9 @@
     "teams": ["Everton", "Huddersfield"]
 }, {
     "Full Time Result": {
-        "1": "17/20",
-        "X": "13/5",
-        "2": "15/4"
+        "1": "1.85",
+        "X": "3.60",
+        "2": "4.75"
     },
     "name": "Leicester v Burnley",
     "home": "Leicester",
@@ -660,9 +660,9 @@
     "teams": ["Leicester", "Burnley"]
 }, {
     "Full Time Result": {
-        "1": "19/20",
-        "X": "12/5",
-        "2": "7/2"
+        "1": "1.95",
+        "X": "3.40",
+        "2": "4.50"
     },
     "name": "Stoke v Swansea",
     "home": "Stoke",
@@ -675,9 +675,9 @@
     "teams": ["Stoke", "Swansea"]
 }, {
     "Full Time Result": {
-        "1": "4/1",
-        "X": "3/1",
-        "2": "8/11"
+        "1": "5.00",
+        "X": "4.00",
+        "2": "1.72"
     },
     "name": "Watford v Tottenham",
     "home": "Watford",
@@ -690,9 +690,9 @@
     "teams": ["Watford", "Tottenham"]
 }, {
     "Full Time Result": {
-        "1": "6/4",
-        "X": "11/5",
-        "2": "11/5"
+        "1": "2.50",
+        "X": "3.20",
+        "2": "3.20"
     },
     "name": "West Brom v Crystal Palace",
     "home": "West Brom",
@@ -705,9 +705,9 @@
     "teams": ["West Brom", "Crystal Palace"]
 }, {
     "Full Time Result": {
-        "1": "6/4",
-        "X": "12/5",
-        "2": "2/1"
+        "1": "2.50",
+        "X": "3.40",
+        "2": "3.00"
     },
     "name": "Arsenal v Man Utd",
     "home": "Arsenal",
@@ -720,9 +720,9 @@
     "teams": ["Arsenal", "Man Utd"]
 }, {
     "Full Time Result": {
-        "1": "21/10",
-        "X": "9/4",
-        "2": "6/4"
+        "1": "3.10",
+        "X": "3.25",
+        "2": "2.50"
     },
     "name": "Bournemouth v Southampton",
     "home": "Bournemouth",
@@ -735,9 +735,9 @@
     "teams": ["Bournemouth", "Southampton"]
 }, {
     "Full Time Result": {
-        "1": "1/12",
-        "X": "10/1",
-        "2": "20/1"
+        "1": "1.083",
+        "X": "11.00",
+        "2": "21.00"
     },
     "name": "Man City v West Ham",
     "home": "Man City",
@@ -750,9 +750,9 @@
     "teams": ["Man City", "West Ham"]
 }, {
     "Full Time Result": {
-        "1": "5/1",
-        "X": "3/1",
-        "2": "8/15"
+        "1": "6.00",
+        "X": "4.00",
+        "2": "1.53"
     },
     "name": "West Ham v Chelsea",
     "home": "West Ham",
@@ -765,9 +765,9 @@
     "teams": ["West Ham", "Chelsea"]
 }, {
     "Full Time Result": {
-        "1": "29/20",
-        "X": "11/5",
-        "2": "19/10"
+        "1": "2.45",
+        "X": "3.20",
+        "2": "2.90"
     },
     "name": "Burnley v Watford",
     "home": "Burnley",
@@ -780,9 +780,9 @@
     "teams": ["Burnley", "Watford"]
 }, {
     "Full Time Result": {
-        "1": "19/20",
-        "X": "9/4",
-        "2": "3/1"
+        "1": "1.95",
+        "X": "3.25",
+        "2": "4.00"
     },
     "name": "Crystal Palace v Bournemouth",
     "home": "Crystal Palace",
@@ -795,9 +795,9 @@
     "teams": ["Crystal Palace", "Bournemouth"]
 }, {
     "Full Time Result": {
-        "1": "31/20",
-        "X": "11/5",
-        "2": "9/5"
+        "1": "2.55",
+        "X": "3.20",
+        "2": "2.80"
     },
     "name": "Huddersfield v Brighton",
     "home": "Huddersfield",
@@ -810,9 +810,9 @@
     "teams": ["Huddersfield", "Brighton"]
 }, {
     "Full Time Result": {
-        "1": "11/8",
-        "X": "11/5",
-        "2": "21/10"
+        "1": "2.37",
+        "X": "3.20",
+        "2": "3.10"
     },
     "name": "Swansea v West Brom",
     "home": "Swansea",
@@ -825,9 +825,9 @@
     "teams": ["Swansea", "West Brom"]
 }, {
     "Full Time Result": {
-        "1": "2/9",
-        "X": "5/1",
-        "2": "11/1"
+        "1": "1.22",
+        "X": "6.00",
+        "2": "12.00"
     },
     "name": "Tottenham v Stoke",
     "home": "Tottenham",
@@ -840,9 +840,9 @@
     "teams": ["Tottenham", "Stoke"]
 }, {
     "Full Time Result": {
-        "1": "7/5",
-        "X": "9/4",
-        "2": "19/10"
+        "1": "2.40",
+        "X": "3.25",
+        "2": "2.90"
     },
     "name": "Newcastle v Leicester",
     "home": "Newcastle",
@@ -855,9 +855,9 @@
     "teams": ["Newcastle", "Leicester"]
 }, {
     "Full Time Result": {
-        "1": "7/2",
-        "X": "11/4",
-        "2": "3/4"
+        "1": "4.50",
+        "X": "3.75",
+        "2": "1.75"
     },
     "name": "Southampton v Arsenal",
     "home": "Southampton",
@@ -870,9 +870,9 @@
     "teams": ["Southampton", "Arsenal"]
 }, {
     "Full Time Result": {
-        "1": "2/7",
-        "X": "17/4",
-        "2": "10/1"
+        "1": "1.28",
+        "X": "5.25",
+        "2": "11.00"
     },
     "name": "Liverpool v Everton",
     "home": "Liverpool",
@@ -885,9 +885,9 @@
     "teams": ["Liverpool", "Everton"]
 }, {
     "Full Time Result": {
-        "1": "12/5",
-        "X": "12/5",
-        "2": "11/10"
+        "1": "3.40",
+        "X": "3.40",
+        "2": "2.10"
     },
     "name": "Man Utd v Man City",
     "home": "Man Utd",
@@ -900,24 +900,24 @@
     "teams": ["Man Utd", "Man City"]
 }, {
     "Full Time Result": {
-        "1": "7/5",
-        "X": "11/10",
-        "2": "5/1"
+        "1": "3.25",
+        "X": "1.57",
+        "2": "8.00"
     },
     "name": "Malaga v Levante",
     "home": "Malaga",
     "date": "Fri 01 Dec",
     "inplay": true,
     "start_time": "",
-    "game_clock": "59:18",
+    "game_clock": "74:48",
     "away": "Levante",
     "competition": "Spain Primera Liga",
     "teams": ["Malaga", "Levante"]
 }, {
     "Full Time Result": {
-        "1": "1/8",
-        "X": "9/1",
-        "2": "16/1"
+        "1": "1.12",
+        "X": "10.00",
+        "2": "17.00"
     },
     "name": "Barcelona v Celta Vigo",
     "home": "Barcelona",
@@ -930,9 +930,9 @@
     "teams": ["Barcelona", "Celta Vigo"]
 }, {
     "Full Time Result": {
-        "1": "1/2",
-        "X": "29/10",
-        "2": "13/2"
+        "1": "1.50",
+        "X": "3.90",
+        "2": "7.50"
     },
     "name": "Atletico Madrid v Real Sociedad",
     "home": "Atletico Madrid",
@@ -945,9 +945,9 @@
     "teams": ["Atletico Madrid", "Real Sociedad"]
 }, {
     "Full Time Result": {
-        "1": "4/9",
-        "X": "7/2",
-        "2": "13/2"
+        "1": "1.44",
+        "X": "4.50",
+        "2": "7.50"
     },
     "name": "Sevilla v Deportivo La Coruna",
     "home": "Sevilla",
@@ -960,9 +960,9 @@
     "teams": ["Sevilla", "Deportivo La Coruna"]
 }, {
     "Full Time Result": {
-        "1": "13/2",
-        "X": "7/2",
-        "2": "4/9"
+        "1": "7.50",
+        "X": "4.50",
+        "2": "1.44"
     },
     "name": "Athletic Bilbao v Real Madrid",
     "home": "Athletic Bilbao",
@@ -975,9 +975,9 @@
     "teams": ["Athletic Bilbao", "Real Madrid"]
 }, {
     "Full Time Result": {
-        "1": "9/5",
-        "X": "9/4",
-        "2": "13/8"
+        "1": "2.80",
+        "X": "3.25",
+        "2": "2.62"
     },
     "name": "Leganes v Villarreal",
     "home": "Leganes",
@@ -990,9 +990,9 @@
     "teams": ["Leganes", "Villarreal"]
 }, {
     "Full Time Result": {
-        "1": "2/1",
-        "X": "12/5",
-        "2": "13/10"
+        "1": "3.00",
+        "X": "3.40",
+        "2": "2.30"
     },
     "name": "Getafe v Valencia",
     "home": "Getafe",
@@ -1005,9 +1005,9 @@
     "teams": ["Getafe", "Valencia"]
 }, {
     "Full Time Result": {
-        "1": "11/8",
-        "X": "21/10",
-        "2": "23/10"
+        "1": "2.37",
+        "X": "3.10",
+        "2": "3.30"
     },
     "name": "Eibar v Espanyol",
     "home": "Eibar",
@@ -1020,9 +1020,9 @@
     "teams": ["Eibar", "Espanyol"]
 }, {
     "Full Time Result": {
-        "1": "6/5",
-        "X": "5/2",
-        "2": "21/10"
+        "1": "2.20",
+        "X": "3.50",
+        "2": "3.10"
     },
     "name": "Las Palmas v Real Betis",
     "home": "Las Palmas",
@@ -1035,9 +1035,9 @@
     "teams": ["Las Palmas", "Real Betis"]
 }, {
     "Full Time Result": {
-        "1": "3/5",
-        "X": "14/5",
-        "2": "5/1"
+        "1": "1.60",
+        "X": "3.80",
+        "2": "6.00"
     },
     "name": "Girona v CD Alaves",
     "home": "Girona",
@@ -1050,9 +1050,9 @@
     "teams": ["Girona", "CD Alaves"]
 }, {
     "Full Time Result": {
-        "1": "13/10",
-        "X": "21/10",
-        "2": "9/4"
+        "1": "2.30",
+        "X": "3.10",
+        "2": "3.25"
     },
     "name": "CD Alaves v Las Palmas",
     "home": "CD Alaves",
@@ -1065,9 +1065,9 @@
     "teams": ["CD Alaves", "Las Palmas"]
 }, {
     "Full Time Result": {
-        "1": "19/20",
-        "X": "5/2",
-        "2": "11/4"
+        "1": "1.95",
+        "X": "3.50",
+        "2": "3.75"
     },
     "name": "Getafe v Eibar",
     "home": "Getafe",
@@ -1080,9 +1080,9 @@
     "teams": ["Getafe", "Eibar"]
 }, {
     "Full Time Result": {
-        "1": "8/13",
-        "X": "3/1",
-        "2": "4/1"
+        "1": "1.61",
+        "X": "4.00",
+        "2": "5.00"
     },
     "name": "Valencia v Celta Vigo",
     "home": "Valencia",
@@ -1095,9 +1095,9 @@
     "teams": ["Valencia", "Celta Vigo"]
 }, {
     "Full Time Result": {
-        "1": "1/5",
-        "X": "6/1",
-        "2": "10/1"
+        "1": "1.20",
+        "X": "7.00",
+        "2": "11.00"
     },
     "name": "Real Madrid v Sevilla",
     "home": "Real Madrid",
@@ -1110,9 +1110,9 @@
     "teams": ["Real Madrid", "Sevilla"]
 }, {
     "Full Time Result": {
-        "1": "5/4",
-        "X": "23/10",
-        "2": "11/5"
+        "1": "2.25",
+        "X": "3.30",
+        "2": "3.20"
     },
     "name": "Deportivo La Coruna v Leganes",
     "home": "Deportivo La Coruna",
@@ -1125,9 +1125,9 @@
     "teams": ["Deportivo La Coruna", "Leganes"]
 }, {
     "Full Time Result": {
-        "1": "4/9",
-        "X": "10/3",
-        "2": "6/1"
+        "1": "1.44",
+        "X": "4.33",
+        "2": "7.00"
     },
     "name": "Real Sociedad v Malaga",
     "home": "Real Sociedad",
@@ -1140,9 +1140,9 @@
     "teams": ["Real Sociedad", "Malaga"]
 }, {
     "Full Time Result": {
-        "1": "4/1",
-        "X": "5/2",
-        "2": "8/11"
+        "1": "5.00",
+        "X": "3.50",
+        "2": "1.72"
     },
     "name": "Real Betis v Atletico Madrid",
     "home": "Real Betis",
@@ -1155,9 +1155,9 @@
     "teams": ["Real Betis", "Atletico Madrid"]
 }, {
     "Full Time Result": {
-        "1": "2/1",
-        "X": "12/5",
-        "2": "13/10"
+        "1": "3.00",
+        "X": "3.40",
+        "2": "2.30"
     },
     "name": "Levante v Athletic Bilbao",
     "home": "Levante",
@@ -1170,9 +1170,9 @@
     "teams": ["Levante", "Athletic Bilbao"]
 }, {
     "Full Time Result": {
-        "1": "11/2",
-        "X": "7/2",
-        "2": "4/9"
+        "1": "6.50",
+        "X": "4.50",
+        "2": "1.44"
     },
     "name": "Villarreal v Barcelona",
     "home": "Villarreal",
@@ -1185,9 +1185,9 @@
     "teams": ["Villarreal", "Barcelona"]
 }, {
     "Full Time Result": {
-        "1": "19/20",
-        "X": "5/2",
-        "2": "11/4"
+        "1": "1.95",
+        "X": "3.50",
+        "2": "3.75"
     },
     "name": "Espanyol v Girona",
     "home": "Espanyol",
@@ -1200,24 +1200,24 @@
     "teams": ["Espanyol", "Girona"]
 }, {
     "Full Time Result": {
-        "1": "10/1",
-        "X": "9/4",
-        "2": "1/2"
+        "1": "81.00",
+        "X": "5.00",
+        "2": "1.16"
     },
     "name": "Napoli v Juventus",
     "home": "Napoli",
     "date": "Fri 01 Dec",
     "inplay": true,
     "start_time": "",
-    "game_clock": "68:11",
+    "game_clock": "83:41",
     "away": "Juventus",
     "competition": "Italy Serie A",
     "teams": ["Napoli", "Juventus"]
 }, {
     "Full Time Result": {
-        "1": "29/20",
-        "X": "12/5",
-        "2": "15/8"
+        "1": "2.45",
+        "X": "3.40",
+        "2": "2.87"
     },
     "name": "Torino v Atalanta",
     "home": "Torino",
@@ -1230,9 +1230,9 @@
     "teams": ["Torino", "Atalanta"]
 }, {
     "Full Time Result": {
-        "1": "8/1",
-        "X": "4/1",
-        "2": "4/11"
+        "1": "9.00",
+        "X": "5.00",
+        "2": "1.36"
     },
     "name": "Benevento v AC Milan",
     "home": "Benevento",
@@ -1245,9 +1245,9 @@
     "teams": ["Benevento", "AC Milan"]
 }, {
     "Full Time Result": {
-        "1": "1/1",
-        "X": "23/10",
-        "2": "3/1"
+        "1": "2.00",
+        "X": "3.30",
+        "2": "4.00"
     },
     "name": "Bologna v Cagliari",
     "home": "Bologna",
@@ -1260,9 +1260,9 @@
     "teams": ["Bologna", "Cagliari"]
 }, {
     "Full Time Result": {
-        "1": "4/7",
-        "X": "3/1",
-        "2": "5/1"
+        "1": "1.57",
+        "X": "4.00",
+        "2": "6.00"
     },
     "name": "Fiorentina v Sassuolo",
     "home": "Fiorentina",
@@ -1275,9 +1275,9 @@
     "teams": ["Fiorentina", "Sassuolo"]
 }, {
     "Full Time Result": {
-        "1": "2/5",
-        "X": "15/4",
-        "2": "7/1"
+        "1": "1.40",
+        "X": "4.75",
+        "2": "8.00"
     },
     "name": "Inter Milan v Chievo",
     "home": "Inter Milan",
@@ -1290,9 +1290,9 @@
     "teams": ["Inter Milan", "Chievo"]
 }, {
     "Full Time Result": {
-        "1": "13/5",
-        "X": "13/5",
-        "2": "1/1"
+        "1": "3.60",
+        "X": "3.60",
+        "2": "2.00"
     },
     "name": "Sampdoria v Lazio",
     "home": "Sampdoria",
@@ -1305,9 +1305,9 @@
     "teams": ["Sampdoria", "Lazio"]
 }, {
     "Full Time Result": {
-        "1": "15/8",
-        "X": "21/10",
-        "2": "13/8"
+        "1": "2.87",
+        "X": "3.10",
+        "2": "2.62"
     },
     "name": "Crotone v Udinese",
     "home": "Crotone",
@@ -1320,9 +1320,9 @@
     "teams": ["Crotone", "Udinese"]
 }, {
     "Full Time Result": {
-        "1": "5/2",
-        "X": "23/10",
-        "2": "23/20"
+        "1": "3.50",
+        "X": "3.30",
+        "2": "2.15"
     },
     "name": "Verona v Genoa",
     "home": "Verona",
@@ -1335,9 +1335,9 @@
     "teams": ["Verona", "Genoa"]
 }, {
     "Full Time Result": {
-        "1": "17/10",
-        "X": "12/5",
-        "2": "6/4"
+        "1": "2.70",
+        "X": "3.40",
+        "2": "2.50"
     },
     "name": "Cagliari v Sampdoria",
     "home": "Cagliari",
@@ -1350,9 +1350,9 @@
     "teams": ["Cagliari", "Sampdoria"]
 }, {
     "Full Time Result": {
-        "1": "11/20",
-        "X": "3/1",
-        "2": "5/1"
+        "1": "1.55",
+        "X": "4.00",
+        "2": "6.00"
     },
     "name": "Juventus v Inter Milan",
     "home": "Juventus",
@@ -1365,9 +1365,9 @@
     "teams": ["Juventus", "Inter Milan"]
 }, {
     "Full Time Result": {
-        "1": "17/4",
-        "X": "3/1",
-        "2": "3/5"
+        "1": "5.25",
+        "X": "4.00",
+        "2": "1.60"
     },
     "name": "Chievo v Roma",
     "home": "Chievo",
@@ -1380,9 +1380,9 @@
     "teams": ["Chievo", "Roma"]
 }, {
     "Full Time Result": {
-        "1": "1/4",
-        "X": "11/2",
-        "2": "8/1"
+        "1": "1.25",
+        "X": "6.50",
+        "2": "9.00"
     },
     "name": "Napoli v Fiorentina",
     "home": "Napoli",
@@ -1395,9 +1395,9 @@
     "teams": ["Napoli", "Fiorentina"]
 }, {
     "Full Time Result": {
-        "1": "11/10",
-        "X": "23/10",
-        "2": "5/2"
+        "1": "2.10",
+        "X": "3.30",
+        "2": "3.50"
     },
     "name": "Spal v Verona",
     "home": "Spal",
@@ -1410,9 +1410,9 @@
     "teams": ["Spal", "Verona"]
 }, {
     "Full Time Result": {
-        "1": "2/5",
-        "X": "4/1",
-        "2": "11/2"
+        "1": "1.40",
+        "X": "5.00",
+        "2": "6.50"
     },
     "name": "Udinese v Benevento",
     "home": "Udinese",
@@ -1425,9 +1425,9 @@
     "teams": ["Udinese", "Benevento"]
 }, {
     "Full Time Result": {
-        "1": "4/5",
-        "X": "5/2",
-        "2": "7/2"
+        "1": "1.80",
+        "X": "3.50",
+        "2": "4.50"
     },
     "name": "Sassuolo v Crotone",
     "home": "Sassuolo",
@@ -1440,9 +1440,9 @@
     "teams": ["Sassuolo", "Crotone"]
 }, {
     "Full Time Result": {
-        "1": "8/15",
-        "X": "3/1",
-        "2": "5/1"
+        "1": "1.53",
+        "X": "4.00",
+        "2": "6.00"
     },
     "name": "AC Milan v Bologna",
     "home": "AC Milan",
@@ -1455,9 +1455,9 @@
     "teams": ["AC Milan", "Bologna"]
 }, {
     "Full Time Result": {
-        "1": "2/1",
-        "X": "12/5",
-        "2": "13/10"
+        "1": "3.00",
+        "X": "3.40",
+        "2": "2.30"
     },
     "name": "Genoa v Atalanta",
     "home": "Genoa",
@@ -1470,9 +1470,9 @@
     "teams": ["Genoa", "Atalanta"]
 }, {
     "Full Time Result": {
-        "1": "9/20",
-        "X": "15/4",
-        "2": "5/1"
+        "1": "1.45",
+        "X": "4.75",
+        "2": "6.00"
     },
     "name": "Lazio v Torino",
     "home": "Lazio",
@@ -1485,24 +1485,9 @@
     "teams": ["Lazio", "Torino"]
 }, {
     "Full Time Result": {
-        "1": "8/1",
-        "X": "1/7",
-        "2": "12/1"
-    },
-    "name": "SC Freiburg v Hamburg",
-    "home": "SC Freiburg",
-    "date": "Fri 01 Dec",
-    "inplay": true,
-    "start_time": "",
-    "game_clock": "86:18",
-    "away": "Hamburg",
-    "competition": "Germany Bundesliga I",
-    "teams": ["SC Freiburg", "Hamburg"]
-}, {
-    "Full Time Result": {
-        "1": "6/5",
-        "X": "13/5",
-        "2": "21/10"
+        "1": "2.25",
+        "X": "3.70",
+        "2": "3.00"
     },
     "name": "Bayer Leverkusen v Borussia Dortmund",
     "home": "Bayer Leverkusen",
@@ -1515,9 +1500,9 @@
     "teams": ["Bayer Leverkusen", "Borussia Dortmund"]
 }, {
     "Full Time Result": {
-        "1": "1/7",
-        "X": "8/1",
-        "2": "16/1"
+        "1": "1.14",
+        "X": "9.00",
+        "2": "17.00"
     },
     "name": "Bayern Munich v Hannover 96",
     "home": "Bayern Munich",
@@ -1530,9 +1515,9 @@
     "teams": ["Bayern Munich", "Hannover 96"]
 }, {
     "Full Time Result": {
-        "1": "8/5",
-        "X": "9/4",
-        "2": "9/5"
+        "1": "2.60",
+        "X": "3.25",
+        "2": "2.80"
     },
     "name": "Mainz v Augsburg",
     "home": "Mainz",
@@ -1545,9 +1530,9 @@
     "teams": ["Mainz", "Augsburg"]
 }, {
     "Full Time Result": {
-        "1": "23/10",
-        "X": "13/5",
-        "2": "11/10"
+        "1": "3.30",
+        "X": "3.60",
+        "2": "2.10"
     },
     "name": "TSG Hoffenheim v RB Leipzig",
     "home": "TSG Hoffenheim",
@@ -1560,9 +1545,9 @@
     "teams": ["TSG Hoffenheim", "RB Leipzig"]
 }, {
     "Full Time Result": {
-        "1": "6/5",
-        "X": "12/5",
-        "2": "23/10"
+        "1": "2.20",
+        "X": "3.40",
+        "2": "3.30"
     },
     "name": "Werder Bremen v VfB Stuttgart",
     "home": "Werder Bremen",
@@ -1575,9 +1560,9 @@
     "teams": ["Werder Bremen", "VfB Stuttgart"]
 }, {
     "Full Time Result": {
-        "1": "4/9",
-        "X": "10/3",
-        "2": "7/1"
+        "1": "1.44",
+        "X": "4.33",
+        "2": "8.00"
     },
     "name": "Schalke v Cologne",
     "home": "Schalke",
@@ -1590,9 +1575,9 @@
     "teams": ["Schalke", "Cologne"]
 }, {
     "Full Time Result": {
-        "1": "17/10",
-        "X": "9/4",
-        "2": "17/10"
+        "1": "2.70",
+        "X": "3.25",
+        "2": "2.70"
     },
     "name": "Hertha Berlin v Eintracht Frankfurt",
     "home": "Hertha Berlin",
@@ -1605,9 +1590,9 @@
     "teams": ["Hertha Berlin", "Eintracht Frankfurt"]
 }, {
     "Full Time Result": {
-        "1": "13/8",
-        "X": "12/5",
-        "2": "13/8"
+        "1": "2.62",
+        "X": "3.40",
+        "2": "2.62"
     },
     "name": "Wolfsburg v Borussia M'gladbach",
     "home": "Wolfsburg",
@@ -1620,9 +1605,9 @@
     "teams": ["Wolfsburg", "Borussia M'gladbach"]
 }, {
     "Full Time Result": {
-        "1": "5/2",
-        "X": "5/2",
-        "2": "11/10"
+        "1": "3.50",
+        "X": "3.50",
+        "2": "2.10"
     },
     "name": "VfB Stuttgart v Bayer Leverkusen",
     "home": "VfB Stuttgart",
@@ -1635,9 +1620,9 @@
     "teams": ["VfB Stuttgart", "Bayer Leverkusen"]
 }, {
     "Full Time Result": {
-        "1": "2/5",
-        "X": "15/4",
-        "2": "6/1"
+        "1": "1.40",
+        "X": "4.75",
+        "2": "7.00"
     },
     "name": "RB Leipzig v Mainz",
     "home": "RB Leipzig",
@@ -1650,9 +1635,9 @@
     "teams": ["RB Leipzig", "Mainz"]
 }, {
     "Full Time Result": {
-        "1": "3/10",
-        "X": "9/2",
-        "2": "15/2"
+        "1": "1.30",
+        "X": "5.50",
+        "2": "8.50"
     },
     "name": "Borussia Dortmund v Werder Bremen",
     "home": "Borussia Dortmund",
@@ -1665,9 +1650,9 @@
     "teams": ["Borussia Dortmund", "Werder Bremen"]
 }, {
     "Full Time Result": {
-        "1": "19/4",
-        "X": "7/2",
-        "2": "1/2"
+        "1": "5.75",
+        "X": "4.50",
+        "2": "1.50"
     },
     "name": "Eintracht Frankfurt v Bayern Munich",
     "home": "Eintracht Frankfurt",
@@ -1680,9 +1665,9 @@
     "teams": ["Eintracht Frankfurt", "Bayern Munich"]
 }, {
     "Full Time Result": {
-        "1": "11/8",
-        "X": "12/5",
-        "2": "15/8"
+        "1": "2.37",
+        "X": "3.40",
+        "2": "2.87"
     },
     "name": "Hamburg v Wolfsburg",
     "home": "Hamburg",
@@ -1695,9 +1680,9 @@
     "teams": ["Hamburg", "Wolfsburg"]
 }, {
     "Full Time Result": {
-        "1": "11/10",
-        "X": "12/5",
-        "2": "12/5"
+        "1": "2.10",
+        "X": "3.40",
+        "2": "3.40"
     },
     "name": "Borussia M'gladbach v Schalke",
     "home": "Borussia M'gladbach",
@@ -1710,9 +1695,9 @@
     "teams": ["Borussia M'gladbach", "Schalke"]
 }, {
     "Full Time Result": {
-        "1": "23/20",
-        "X": "12/5",
-        "2": "9/4"
+        "1": "2.15",
+        "X": "3.40",
+        "2": "3.25"
     },
     "name": "Cologne v SC Freiburg",
     "home": "Cologne",
@@ -1725,9 +1710,9 @@
     "teams": ["Cologne", "SC Freiburg"]
 }, {
     "Full Time Result": {
-        "1": "31/20",
-        "X": "12/5",
-        "2": "13/8"
+        "1": "2.55",
+        "X": "3.40",
+        "2": "2.62"
     },
     "name": "Hannover 96 v TSG Hoffenheim",
     "home": "Hannover 96",
@@ -1740,9 +1725,9 @@
     "teams": ["Hannover 96", "TSG Hoffenheim"]
 }, {
     "Full Time Result": {
-        "1": "1/1",
-        "X": "12/5",
-        "2": "11/4"
+        "1": "2.00",
+        "X": "3.40",
+        "2": "3.75"
     },
     "name": "Augsburg v Hertha Berlin",
     "home": "Augsburg",
@@ -1755,24 +1740,24 @@
     "teams": ["Augsburg", "Hertha Berlin"]
 }, {
     "Full Time Result": {
-        "1": "3/1",
-        "X": "4/5",
-        "2": "3/1"
+        "1": "1.083",
+        "X": "7.50",
+        "2": "201.00"
     },
     "name": "Dijon v Bordeaux",
     "home": "Dijon",
     "date": "Fri 01 Dec",
     "inplay": true,
     "start_time": "",
-    "game_clock": "70:57",
+    "game_clock": "86:27",
     "away": "Bordeaux",
     "competition": "France Ligue 1",
     "teams": ["Dijon", "Bordeaux"]
 }, {
     "Full Time Result": {
-        "1": "14/1",
-        "X": "7/1",
-        "2": "1/6"
+        "1": "15.00",
+        "X": "8.00",
+        "2": "1.16"
     },
     "name": "Strasbourg v PSG",
     "home": "Strasbourg",
@@ -1785,9 +1770,9 @@
     "teams": ["Strasbourg", "PSG"]
 }, {
     "Full Time Result": {
-        "1": "19/20",
-        "X": "11/5",
-        "2": "10/3"
+        "1": "1.95",
+        "X": "3.20",
+        "2": "4.33"
     },
     "name": "Lille v Toulouse",
     "home": "Lille",
@@ -1800,9 +1785,9 @@
     "teams": ["Lille", "Toulouse"]
 }, {
     "Full Time Result": {
-        "1": "2/5",
-        "X": "15/4",
-        "2": "7/1"
+        "1": "1.40",
+        "X": "4.75",
+        "2": "8.00"
     },
     "name": "Monaco v Angers",
     "home": "Monaco",
@@ -1815,9 +1800,9 @@
     "teams": ["Monaco", "Angers"]
 }, {
     "Full Time Result": {
-        "1": "4/9",
-        "X": "3/1",
-        "2": "15/2"
+        "1": "1.44",
+        "X": "4.00",
+        "2": "8.50"
     },
     "name": "Nice v Metz",
     "home": "Nice",
@@ -1830,9 +1815,9 @@
     "teams": ["Nice", "Metz"]
 }, {
     "Full Time Result": {
-        "1": "1/1",
-        "X": "2/1",
-        "2": "15/4"
+        "1": "2.00",
+        "X": "3.00",
+        "2": "4.75"
     },
     "name": "Rennes v Amiens",
     "home": "Rennes",
@@ -1845,9 +1830,9 @@
     "teams": ["Rennes", "Amiens"]
 }, {
     "Full Time Result": {
-        "1": "13/8",
-        "X": "21/10",
-        "2": "19/10"
+        "1": "2.62",
+        "X": "3.10",
+        "2": "2.90"
     },
     "name": "Troyes v Guingamp",
     "home": "Troyes",
@@ -1860,9 +1845,9 @@
     "teams": ["Troyes", "Guingamp"]
 }, {
     "Full Time Result": {
-        "1": "13/10",
-        "X": "2/1",
-        "2": "13/5"
+        "1": "2.30",
+        "X": "3.00",
+        "2": "3.60"
     },
     "name": "St Etienne v Nantes",
     "home": "St Etienne",
@@ -1875,9 +1860,9 @@
     "teams": ["St Etienne", "Nantes"]
 }, {
     "Full Time Result": {
-        "1": "15/4",
-        "X": "11/4",
-        "2": "3/4"
+        "1": "4.75",
+        "X": "3.75",
+        "2": "1.75"
     },
     "name": "Caen v Lyon",
     "home": "Caen",
@@ -1890,9 +1875,9 @@
     "teams": ["Caen", "Lyon"]
 }, {
     "Full Time Result": {
-        "1": "12/5",
-        "X": "23/10",
-        "2": "6/5"
+        "1": "3.40",
+        "X": "3.30",
+        "2": "2.20"
     },
     "name": "Montpellier v Marseille",
     "home": "Montpellier",
