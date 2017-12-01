@@ -1,0 +1,1906 @@
+[{
+    "Full Time Result": {
+        "1": "2/7",
+        "X": "19/4",
+        "2": "8/1"
+    },
+    "name": "Barcelona v Sporting",
+    "home": "Barcelona",
+    "date": "Tue 05 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Sporting",
+    "competition": "UEFA Champions League",
+    "teams": ["Barcelona", "Sporting"]
+}, {
+    "Full Time Result": {
+        "1": "6/4",
+        "X": "5/2",
+        "2": "13/8"
+    },
+    "name": "Bayern Munich v PSG",
+    "home": "Bayern Munich",
+    "date": "Tue 05 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "PSG",
+    "competition": "UEFA Champions League",
+    "teams": ["Bayern Munich", "PSG"]
+}, {
+    "Full Time Result": {
+        "1": "15/8",
+        "X": "12/5",
+        "2": "11/8"
+    },
+    "name": "Benfica v Basel",
+    "home": "Benfica",
+    "date": "Tue 05 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Basel",
+    "competition": "UEFA Champions League",
+    "teams": ["Benfica", "Basel"]
+}, {
+    "Full Time Result": {
+        "1": "4/5",
+        "X": "14/5",
+        "2": "3/1"
+    },
+    "name": "Celtic v Anderlecht",
+    "home": "Celtic",
+    "date": "Tue 05 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Anderlecht",
+    "competition": "UEFA Champions League",
+    "teams": ["Celtic", "Anderlecht"]
+}, {
+    "Full Time Result": {
+        "1": "1/1",
+        "X": "13/5",
+        "2": "5/2"
+    },
+    "name": "Chelsea v Atletico Madrid",
+    "home": "Chelsea",
+    "date": "Tue 05 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Atletico Madrid",
+    "competition": "UEFA Champions League",
+    "teams": ["Chelsea", "Atletico Madrid"]
+}, {
+    "Full Time Result": {
+        "1": "1/3",
+        "X": "4/1",
+        "2": "8/1"
+    },
+    "name": "Man Utd v CSKA Moscow",
+    "home": "Man Utd",
+    "date": "Tue 05 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "CSKA Moscow",
+    "competition": "UEFA Champions League",
+    "teams": ["Man Utd", "CSKA Moscow"]
+}, {
+    "Full Time Result": {
+        "1": "12/1",
+        "X": "11/2",
+        "2": "1/5"
+    },
+    "name": "Olympiakos v Juventus",
+    "home": "Olympiakos",
+    "date": "Tue 05 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Juventus",
+    "competition": "UEFA Champions League",
+    "teams": ["Olympiakos", "Juventus"]
+}, {
+    "Full Time Result": {
+        "1": "1/10",
+        "X": "8/1",
+        "2": "20/1"
+    },
+    "name": "Roma v FK Qarabag",
+    "home": "Roma",
+    "date": "Tue 05 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "FK Qarabag",
+    "competition": "UEFA Champions League",
+    "teams": ["Roma", "FK Qarabag"]
+}, {
+    "Full Time Result": {
+        "1": "1/3",
+        "X": "17/4",
+        "2": "7/1"
+    },
+    "name": "FC Porto v Monaco",
+    "home": "FC Porto",
+    "date": "Wed 06 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Monaco",
+    "competition": "UEFA Champions League",
+    "teams": ["FC Porto", "Monaco"]
+}, {
+    "Full Time Result": {
+        "1": "10/1",
+        "X": "11/2",
+        "2": "2/9"
+    },
+    "name": "Feyenoord v Napoli",
+    "home": "Feyenoord",
+    "date": "Wed 06 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Napoli",
+    "competition": "UEFA Champions League",
+    "teams": ["Feyenoord", "Napoli"]
+}, {
+    "Full Time Result": {
+        "1": "1/4",
+        "X": "5/1",
+        "2": "9/1"
+    },
+    "name": "Liverpool v Spartak Moscow",
+    "home": "Liverpool",
+    "date": "Wed 06 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Spartak Moscow",
+    "competition": "UEFA Champions League",
+    "teams": ["Liverpool", "Spartak Moscow"]
+}, {
+    "Full Time Result": {
+        "1": "14/1",
+        "X": "6/1",
+        "2": "1/6"
+    },
+    "name": "NK Maribor v Sevilla",
+    "home": "NK Maribor",
+    "date": "Wed 06 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Sevilla",
+    "competition": "UEFA Champions League",
+    "teams": ["NK Maribor", "Sevilla"]
+}, {
+    "Full Time Result": {
+        "1": "3/10",
+        "X": "17/4",
+        "2": "17/2"
+    },
+    "name": "RB Leipzig v Besiktas",
+    "home": "RB Leipzig",
+    "date": "Wed 06 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Besiktas",
+    "competition": "UEFA Champions League",
+    "teams": ["RB Leipzig", "Besiktas"]
+}, {
+    "Full Time Result": {
+        "1": "9/20",
+        "X": "15/4",
+        "2": "5/1"
+    },
+    "name": "Real Madrid v Borussia Dortmund",
+    "home": "Real Madrid",
+    "date": "Wed 06 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Borussia Dortmund",
+    "competition": "UEFA Champions League",
+    "teams": ["Real Madrid", "Borussia Dortmund"]
+}, {
+    "Full Time Result": {
+        "1": "13/10",
+        "X": "12/5",
+        "2": "2/1"
+    },
+    "name": "Shakhtar Donetsk v Man City",
+    "home": "Shakhtar Donetsk",
+    "date": "Wed 06 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Man City",
+    "competition": "UEFA Champions League",
+    "teams": ["Shakhtar Donetsk", "Man City"]
+}, {
+    "Full Time Result": {
+        "1": "1/6",
+        "X": "15/2",
+        "2": "10/1"
+    },
+    "name": "Tottenham v Apoel Nicosia",
+    "home": "Tottenham",
+    "date": "Wed 06 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Apoel Nicosia",
+    "competition": "UEFA Champions League",
+    "teams": ["Tottenham", "Apoel Nicosia"]
+}, {
+    "Full Time Result": {
+        "1": "19/10",
+        "X": "9/4",
+        "2": "7/5"
+    },
+    "name": "Apollon Limassol v Everton",
+    "home": "Apollon Limassol",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "Everton",
+    "competition": "UEFA Europa League",
+    "teams": ["Apollon Limassol", "Everton"]
+}, {
+    "Full Time Result": {
+        "1": "7/5",
+        "X": "9/4",
+        "2": "19/10"
+    },
+    "name": "Atalanta v Lyon",
+    "home": "Atalanta",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "Lyon",
+    "competition": "UEFA Europa League",
+    "teams": ["Atalanta", "Lyon"]
+}, {
+    "Full Time Result": {
+        "1": "7/10",
+        "X": "13/5",
+        "2": "4/1"
+    },
+    "name": "Dynamo Kiev v Partizan Belgrade",
+    "home": "Dynamo Kiev",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "Partizan Belgrade",
+    "competition": "UEFA Europa League",
+    "teams": ["Dynamo Kiev", "Partizan Belgrade"]
+}, {
+    "Full Time Result": {
+        "1": "4/7",
+        "X": "11/4",
+        "2": "5/1"
+    },
+    "name": "FC Copenhagen v Sheriff Tiraspol",
+    "home": "FC Copenhagen",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "Sheriff Tiraspol",
+    "competition": "UEFA Europa League",
+    "teams": ["FC Copenhagen", "Sheriff Tiraspol"]
+}, {
+    "Full Time Result": {
+        "1": "9/2",
+        "X": "11/4",
+        "2": "8/13"
+    },
+    "name": "FC Fastav Zl\u00edn v Lokomotiv Moscow",
+    "home": "FC Fastav Zl\u00edn",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "Lokomotiv Moscow",
+    "competition": "UEFA Europa League",
+    "teams": ["FC Fastav Zl\u00edn", "Lokomotiv Moscow"]
+}, {
+    "Full Time Result": {
+        "1": "13/8",
+        "X": "9/4",
+        "2": "13/8"
+    },
+    "name": "FK Austria Vienna v AEK Athens",
+    "home": "FK Austria Vienna",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "AEK Athens",
+    "competition": "UEFA Europa League",
+    "teams": ["FK Austria Vienna", "AEK Athens"]
+}, {
+    "Full Time Result": {
+        "1": "12/5",
+        "X": "23/10",
+        "2": "23/20"
+    },
+    "name": "HNK Rijeka v AC Milan",
+    "home": "HNK Rijeka",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "AC Milan",
+    "competition": "UEFA Europa League",
+    "teams": ["HNK Rijeka", "AC Milan"]
+}, {
+    "Full Time Result": {
+        "1": "4/5",
+        "X": "13/5",
+        "2": "10/3"
+    },
+    "name": "Istanbul Basaksehir v Braga",
+    "home": "Istanbul Basaksehir",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "Braga",
+    "competition": "UEFA Europa League",
+    "teams": ["Istanbul Basaksehir", "Braga"]
+}, {
+    "Full Time Result": {
+        "1": "8/11",
+        "X": "5/2",
+        "2": "4/1"
+    },
+    "name": "Slavia Prague v FC Astana",
+    "home": "Slavia Prague",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "FC Astana",
+    "competition": "UEFA Europa League",
+    "teams": ["Slavia Prague", "FC Astana"]
+}, {
+    "Full Time Result": {
+        "1": "11/10",
+        "X": "23/10",
+        "2": "5/2"
+    },
+    "name": "TSG Hoffenheim v Ludogorets Razgrad",
+    "home": "TSG Hoffenheim",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "Ludogorets Razgrad",
+    "competition": "UEFA Europa League",
+    "teams": ["TSG Hoffenheim", "Ludogorets Razgrad"]
+}, {
+    "Full Time Result": {
+        "1": "3/10",
+        "X": "4/1",
+        "2": "9/1"
+    },
+    "name": "Villarreal v Maccabi Tel Aviv",
+    "home": "Villarreal",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "Maccabi Tel Aviv",
+    "competition": "UEFA Europa League",
+    "teams": ["Villarreal", "Maccabi Tel Aviv"]
+}, {
+    "Full Time Result": {
+        "1": "4/7",
+        "X": "3/1",
+        "2": "19/4"
+    },
+    "name": "Young Boys v Skenderbeu",
+    "home": "Young Boys",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "Skenderbeu",
+    "competition": "UEFA Europa League",
+    "teams": ["Young Boys", "Skenderbeu"]
+}, {
+    "Full Time Result": {
+        "1": "4/11",
+        "X": "17/4",
+        "2": "6/1"
+    },
+    "name": "Arsenal v BATE Borisov",
+    "home": "Arsenal",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "20:05",
+    "game_clock": null,
+    "away": "BATE Borisov",
+    "competition": "UEFA Europa League",
+    "teams": ["Arsenal", "BATE Borisov"]
+}, {
+    "Full Time Result": {
+        "1": "2/5",
+        "X": "7/2",
+        "2": "13/2"
+    },
+    "name": "FCSB v Lugano",
+    "home": "FCSB",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "20:05",
+    "game_clock": null,
+    "away": "Lugano",
+    "competition": "UEFA Europa League",
+    "teams": ["FCSB", "Lugano"]
+}, {
+    "Full Time Result": {
+        "1": "5/4",
+        "X": "11/5",
+        "2": "9/4"
+    },
+    "name": "Guimaraes v Konyaspor",
+    "home": "Guimaraes",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "20:05",
+    "game_clock": null,
+    "away": "Konyaspor",
+    "competition": "UEFA Europa League",
+    "teams": ["Guimaraes", "Konyaspor"]
+}, {
+    "Full Time Result": {
+        "1": "5/2",
+        "X": "23/10",
+        "2": "11/10"
+    },
+    "name": "Hapoel Beer Sheva v Viktoria Plzen",
+    "home": "Hapoel Beer Sheva",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "20:05",
+    "game_clock": null,
+    "away": "Viktoria Plzen",
+    "competition": "UEFA Europa League",
+    "teams": ["Hapoel Beer Sheva", "Viktoria Plzen"]
+}, {
+    "Full Time Result": {
+        "1": "1/1",
+        "X": "23/10",
+        "2": "11/4"
+    },
+    "name": "Hertha Berlin v Ostersunds FK",
+    "home": "Hertha Berlin",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "20:05",
+    "game_clock": null,
+    "away": "Ostersunds FK",
+    "competition": "UEFA Europa League",
+    "teams": ["Hertha Berlin", "Ostersunds FK"]
+}, {
+    "Full Time Result": {
+        "1": "4/7",
+        "X": "14/5",
+        "2": "5/1"
+    },
+    "name": "Marseille v FC Salzburg",
+    "home": "Marseille",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "20:05",
+    "game_clock": null,
+    "away": "FC Salzburg",
+    "competition": "UEFA Europa League",
+    "teams": ["Marseille", "FC Salzburg"]
+}, {
+    "Full Time Result": {
+        "1": "23/20",
+        "X": "23/10",
+        "2": "12/5"
+    },
+    "name": "Real Sociedad v Zenit St Petersburg",
+    "home": "Real Sociedad",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "20:05",
+    "game_clock": null,
+    "away": "Zenit St Petersburg",
+    "competition": "UEFA Europa League",
+    "teams": ["Real Sociedad", "Zenit St Petersburg"]
+}, {
+    "Full Time Result": {
+        "1": "11/8",
+        "X": "21/10",
+        "2": "21/10"
+    },
+    "name": "Red Star Belgrade v Cologne",
+    "home": "Red Star Belgrade",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "20:05",
+    "game_clock": null,
+    "away": "Cologne",
+    "competition": "UEFA Europa League",
+    "teams": ["Red Star Belgrade", "Cologne"]
+}, {
+    "Full Time Result": {
+        "1": "11/4",
+        "X": "12/5",
+        "2": "1/1"
+    },
+    "name": "Vardar Skopje v Rosenborg",
+    "home": "Vardar Skopje",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "20:05",
+    "game_clock": null,
+    "away": "Rosenborg",
+    "competition": "UEFA Europa League",
+    "teams": ["Vardar Skopje", "Rosenborg"]
+}, {
+    "Full Time Result": {
+        "1": "9/5",
+        "X": "23/10",
+        "2": "29/20"
+    },
+    "name": "Vitesse v Nice",
+    "home": "Vitesse",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "20:05",
+    "game_clock": null,
+    "away": "Nice",
+    "competition": "UEFA Europa League",
+    "teams": ["Vitesse", "Nice"]
+}, {
+    "Full Time Result": {
+        "1": "4/1",
+        "X": "5/2",
+        "2": "8/11"
+    },
+    "name": "Zorya v Athletic Bilbao",
+    "home": "Zorya",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "20:05",
+    "game_clock": null,
+    "away": "Athletic Bilbao",
+    "competition": "UEFA Europa League",
+    "teams": ["Zorya", "Athletic Bilbao"]
+}, {
+    "Full Time Result": {
+        "1": "12/5",
+        "X": "12/5",
+        "2": "11/10"
+    },
+    "name": "Zulte-Waregem v Lazio",
+    "home": "Zulte-Waregem",
+    "date": "Thu 07 Dec",
+    "inplay": false,
+    "start_time": "20:05",
+    "game_clock": null,
+    "away": "Lazio",
+    "competition": "UEFA Europa League",
+    "teams": ["Zulte-Waregem", "Lazio"]
+}, {
+    "Full Time Result": {
+        "1": "2/7",
+        "X": "5/1",
+        "2": "12/1"
+    },
+    "name": "Chelsea v Newcastle",
+    "home": "Chelsea",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "12:30",
+    "game_clock": null,
+    "away": "Newcastle",
+    "competition": "England Premier League",
+    "teams": ["Chelsea", "Newcastle"]
+}, {
+    "Full Time Result": {
+        "1": "13/2",
+        "X": "7/2",
+        "2": "1/2"
+    },
+    "name": "Brighton v Liverpool",
+    "home": "Brighton",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "Liverpool",
+    "competition": "England Premier League",
+    "teams": ["Brighton", "Liverpool"]
+}, {
+    "Full Time Result": {
+        "1": "7/10",
+        "X": "14/5",
+        "2": "19/4"
+    },
+    "name": "Everton v Huddersfield",
+    "home": "Everton",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "Huddersfield",
+    "competition": "England Premier League",
+    "teams": ["Everton", "Huddersfield"]
+}, {
+    "Full Time Result": {
+        "1": "17/20",
+        "X": "13/5",
+        "2": "15/4"
+    },
+    "name": "Leicester v Burnley",
+    "home": "Leicester",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "Burnley",
+    "competition": "England Premier League",
+    "teams": ["Leicester", "Burnley"]
+}, {
+    "Full Time Result": {
+        "1": "19/20",
+        "X": "12/5",
+        "2": "7/2"
+    },
+    "name": "Stoke v Swansea",
+    "home": "Stoke",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "Swansea",
+    "competition": "England Premier League",
+    "teams": ["Stoke", "Swansea"]
+}, {
+    "Full Time Result": {
+        "1": "4/1",
+        "X": "3/1",
+        "2": "8/11"
+    },
+    "name": "Watford v Tottenham",
+    "home": "Watford",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "Tottenham",
+    "competition": "England Premier League",
+    "teams": ["Watford", "Tottenham"]
+}, {
+    "Full Time Result": {
+        "1": "6/4",
+        "X": "11/5",
+        "2": "11/5"
+    },
+    "name": "West Brom v Crystal Palace",
+    "home": "West Brom",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "Crystal Palace",
+    "competition": "England Premier League",
+    "teams": ["West Brom", "Crystal Palace"]
+}, {
+    "Full Time Result": {
+        "1": "6/4",
+        "X": "12/5",
+        "2": "2/1"
+    },
+    "name": "Arsenal v Man Utd",
+    "home": "Arsenal",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "17:30",
+    "game_clock": null,
+    "away": "Man Utd",
+    "competition": "England Premier League",
+    "teams": ["Arsenal", "Man Utd"]
+}, {
+    "Full Time Result": {
+        "1": "21/10",
+        "X": "9/4",
+        "2": "6/4"
+    },
+    "name": "Bournemouth v Southampton",
+    "home": "Bournemouth",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "13:30",
+    "game_clock": null,
+    "away": "Southampton",
+    "competition": "England Premier League",
+    "teams": ["Bournemouth", "Southampton"]
+}, {
+    "Full Time Result": {
+        "1": "1/12",
+        "X": "10/1",
+        "2": "20/1"
+    },
+    "name": "Man City v West Ham",
+    "home": "Man City",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "16:00",
+    "game_clock": null,
+    "away": "West Ham",
+    "competition": "England Premier League",
+    "teams": ["Man City", "West Ham"]
+}, {
+    "Full Time Result": {
+        "1": "5/1",
+        "X": "3/1",
+        "2": "8/15"
+    },
+    "name": "West Ham v Chelsea",
+    "home": "West Ham",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "12:30",
+    "game_clock": null,
+    "away": "Chelsea",
+    "competition": "England Premier League",
+    "teams": ["West Ham", "Chelsea"]
+}, {
+    "Full Time Result": {
+        "1": "29/20",
+        "X": "11/5",
+        "2": "19/10"
+    },
+    "name": "Burnley v Watford",
+    "home": "Burnley",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "Watford",
+    "competition": "England Premier League",
+    "teams": ["Burnley", "Watford"]
+}, {
+    "Full Time Result": {
+        "1": "19/20",
+        "X": "9/4",
+        "2": "3/1"
+    },
+    "name": "Crystal Palace v Bournemouth",
+    "home": "Crystal Palace",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "Bournemouth",
+    "competition": "England Premier League",
+    "teams": ["Crystal Palace", "Bournemouth"]
+}, {
+    "Full Time Result": {
+        "1": "31/20",
+        "X": "11/5",
+        "2": "9/5"
+    },
+    "name": "Huddersfield v Brighton",
+    "home": "Huddersfield",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "Brighton",
+    "competition": "England Premier League",
+    "teams": ["Huddersfield", "Brighton"]
+}, {
+    "Full Time Result": {
+        "1": "11/8",
+        "X": "11/5",
+        "2": "21/10"
+    },
+    "name": "Swansea v West Brom",
+    "home": "Swansea",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "West Brom",
+    "competition": "England Premier League",
+    "teams": ["Swansea", "West Brom"]
+}, {
+    "Full Time Result": {
+        "1": "2/9",
+        "X": "5/1",
+        "2": "11/1"
+    },
+    "name": "Tottenham v Stoke",
+    "home": "Tottenham",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "Stoke",
+    "competition": "England Premier League",
+    "teams": ["Tottenham", "Stoke"]
+}, {
+    "Full Time Result": {
+        "1": "7/5",
+        "X": "9/4",
+        "2": "19/10"
+    },
+    "name": "Newcastle v Leicester",
+    "home": "Newcastle",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "17:30",
+    "game_clock": null,
+    "away": "Leicester",
+    "competition": "England Premier League",
+    "teams": ["Newcastle", "Leicester"]
+}, {
+    "Full Time Result": {
+        "1": "7/2",
+        "X": "11/4",
+        "2": "3/4"
+    },
+    "name": "Southampton v Arsenal",
+    "home": "Southampton",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "12:00",
+    "game_clock": null,
+    "away": "Arsenal",
+    "competition": "England Premier League",
+    "teams": ["Southampton", "Arsenal"]
+}, {
+    "Full Time Result": {
+        "1": "2/7",
+        "X": "17/4",
+        "2": "10/1"
+    },
+    "name": "Liverpool v Everton",
+    "home": "Liverpool",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "14:15",
+    "game_clock": null,
+    "away": "Everton",
+    "competition": "England Premier League",
+    "teams": ["Liverpool", "Everton"]
+}, {
+    "Full Time Result": {
+        "1": "12/5",
+        "X": "12/5",
+        "2": "11/10"
+    },
+    "name": "Man Utd v Man City",
+    "home": "Man Utd",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "16:30",
+    "game_clock": null,
+    "away": "Man City",
+    "competition": "England Premier League",
+    "teams": ["Man Utd", "Man City"]
+}, {
+    "Full Time Result": {
+        "1": "7/5",
+        "X": "11/10",
+        "2": "5/1"
+    },
+    "name": "Malaga v Levante",
+    "home": "Malaga",
+    "date": "Fri 01 Dec",
+    "inplay": true,
+    "start_time": "",
+    "game_clock": "59:18",
+    "away": "Levante",
+    "competition": "Spain Primera Liga",
+    "teams": ["Malaga", "Levante"]
+}, {
+    "Full Time Result": {
+        "1": "1/8",
+        "X": "9/1",
+        "2": "16/1"
+    },
+    "name": "Barcelona v Celta Vigo",
+    "home": "Barcelona",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "12:00",
+    "game_clock": null,
+    "away": "Celta Vigo",
+    "competition": "Spain Primera Liga",
+    "teams": ["Barcelona", "Celta Vigo"]
+}, {
+    "Full Time Result": {
+        "1": "1/2",
+        "X": "29/10",
+        "2": "13/2"
+    },
+    "name": "Atletico Madrid v Real Sociedad",
+    "home": "Atletico Madrid",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "15:15",
+    "game_clock": null,
+    "away": "Real Sociedad",
+    "competition": "Spain Primera Liga",
+    "teams": ["Atletico Madrid", "Real Sociedad"]
+}, {
+    "Full Time Result": {
+        "1": "4/9",
+        "X": "7/2",
+        "2": "13/2"
+    },
+    "name": "Sevilla v Deportivo La Coruna",
+    "home": "Sevilla",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "17:30",
+    "game_clock": null,
+    "away": "Deportivo La Coruna",
+    "competition": "Spain Primera Liga",
+    "teams": ["Sevilla", "Deportivo La Coruna"]
+}, {
+    "Full Time Result": {
+        "1": "13/2",
+        "X": "7/2",
+        "2": "4/9"
+    },
+    "name": "Athletic Bilbao v Real Madrid",
+    "home": "Athletic Bilbao",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Real Madrid",
+    "competition": "Spain Primera Liga",
+    "teams": ["Athletic Bilbao", "Real Madrid"]
+}, {
+    "Full Time Result": {
+        "1": "9/5",
+        "X": "9/4",
+        "2": "13/8"
+    },
+    "name": "Leganes v Villarreal",
+    "home": "Leganes",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "11:00",
+    "game_clock": null,
+    "away": "Villarreal",
+    "competition": "Spain Primera Liga",
+    "teams": ["Leganes", "Villarreal"]
+}, {
+    "Full Time Result": {
+        "1": "2/1",
+        "X": "12/5",
+        "2": "13/10"
+    },
+    "name": "Getafe v Valencia",
+    "home": "Getafe",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "15:15",
+    "game_clock": null,
+    "away": "Valencia",
+    "competition": "Spain Primera Liga",
+    "teams": ["Getafe", "Valencia"]
+}, {
+    "Full Time Result": {
+        "1": "11/8",
+        "X": "21/10",
+        "2": "23/10"
+    },
+    "name": "Eibar v Espanyol",
+    "home": "Eibar",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "17:30",
+    "game_clock": null,
+    "away": "Espanyol",
+    "competition": "Spain Primera Liga",
+    "teams": ["Eibar", "Espanyol"]
+}, {
+    "Full Time Result": {
+        "1": "6/5",
+        "X": "5/2",
+        "2": "21/10"
+    },
+    "name": "Las Palmas v Real Betis",
+    "home": "Las Palmas",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Real Betis",
+    "competition": "Spain Primera Liga",
+    "teams": ["Las Palmas", "Real Betis"]
+}, {
+    "Full Time Result": {
+        "1": "3/5",
+        "X": "14/5",
+        "2": "5/1"
+    },
+    "name": "Girona v CD Alaves",
+    "home": "Girona",
+    "date": "Mon 04 Dec",
+    "inplay": false,
+    "start_time": "20:00",
+    "game_clock": null,
+    "away": "CD Alaves",
+    "competition": "Spain Primera Liga",
+    "teams": ["Girona", "CD Alaves"]
+}, {
+    "Full Time Result": {
+        "1": "13/10",
+        "X": "21/10",
+        "2": "9/4"
+    },
+    "name": "CD Alaves v Las Palmas",
+    "home": "CD Alaves",
+    "date": "Fri 08 Dec",
+    "inplay": false,
+    "start_time": "20:00",
+    "game_clock": null,
+    "away": "Las Palmas",
+    "competition": "Spain Primera Liga",
+    "teams": ["CD Alaves", "Las Palmas"]
+}, {
+    "Full Time Result": {
+        "1": "19/20",
+        "X": "5/2",
+        "2": "11/4"
+    },
+    "name": "Getafe v Eibar",
+    "home": "Getafe",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "12:00",
+    "game_clock": null,
+    "away": "Eibar",
+    "competition": "Spain Primera Liga",
+    "teams": ["Getafe", "Eibar"]
+}, {
+    "Full Time Result": {
+        "1": "8/13",
+        "X": "3/1",
+        "2": "4/1"
+    },
+    "name": "Valencia v Celta Vigo",
+    "home": "Valencia",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "12:00",
+    "game_clock": null,
+    "away": "Celta Vigo",
+    "competition": "Spain Primera Liga",
+    "teams": ["Valencia", "Celta Vigo"]
+}, {
+    "Full Time Result": {
+        "1": "1/5",
+        "X": "6/1",
+        "2": "10/1"
+    },
+    "name": "Real Madrid v Sevilla",
+    "home": "Real Madrid",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "15:15",
+    "game_clock": null,
+    "away": "Sevilla",
+    "competition": "Spain Primera Liga",
+    "teams": ["Real Madrid", "Sevilla"]
+}, {
+    "Full Time Result": {
+        "1": "5/4",
+        "X": "23/10",
+        "2": "11/5"
+    },
+    "name": "Deportivo La Coruna v Leganes",
+    "home": "Deportivo La Coruna",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "17:30",
+    "game_clock": null,
+    "away": "Leganes",
+    "competition": "Spain Primera Liga",
+    "teams": ["Deportivo La Coruna", "Leganes"]
+}, {
+    "Full Time Result": {
+        "1": "4/9",
+        "X": "10/3",
+        "2": "6/1"
+    },
+    "name": "Real Sociedad v Malaga",
+    "home": "Real Sociedad",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "11:00",
+    "game_clock": null,
+    "away": "Malaga",
+    "competition": "Spain Primera Liga",
+    "teams": ["Real Sociedad", "Malaga"]
+}, {
+    "Full Time Result": {
+        "1": "4/1",
+        "X": "5/2",
+        "2": "8/11"
+    },
+    "name": "Real Betis v Atletico Madrid",
+    "home": "Real Betis",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "15:15",
+    "game_clock": null,
+    "away": "Atletico Madrid",
+    "competition": "Spain Primera Liga",
+    "teams": ["Real Betis", "Atletico Madrid"]
+}, {
+    "Full Time Result": {
+        "1": "2/1",
+        "X": "12/5",
+        "2": "13/10"
+    },
+    "name": "Levante v Athletic Bilbao",
+    "home": "Levante",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "17:30",
+    "game_clock": null,
+    "away": "Athletic Bilbao",
+    "competition": "Spain Primera Liga",
+    "teams": ["Levante", "Athletic Bilbao"]
+}, {
+    "Full Time Result": {
+        "1": "11/2",
+        "X": "7/2",
+        "2": "4/9"
+    },
+    "name": "Villarreal v Barcelona",
+    "home": "Villarreal",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Barcelona",
+    "competition": "Spain Primera Liga",
+    "teams": ["Villarreal", "Barcelona"]
+}, {
+    "Full Time Result": {
+        "1": "19/20",
+        "X": "5/2",
+        "2": "11/4"
+    },
+    "name": "Espanyol v Girona",
+    "home": "Espanyol",
+    "date": "Mon 11 Dec",
+    "inplay": false,
+    "start_time": "20:00",
+    "game_clock": null,
+    "away": "Girona",
+    "competition": "Spain Primera Liga",
+    "teams": ["Espanyol", "Girona"]
+}, {
+    "Full Time Result": {
+        "1": "10/1",
+        "X": "9/4",
+        "2": "1/2"
+    },
+    "name": "Napoli v Juventus",
+    "home": "Napoli",
+    "date": "Fri 01 Dec",
+    "inplay": true,
+    "start_time": "",
+    "game_clock": "68:11",
+    "away": "Juventus",
+    "competition": "Italy Serie A",
+    "teams": ["Napoli", "Juventus"]
+}, {
+    "Full Time Result": {
+        "1": "29/20",
+        "X": "12/5",
+        "2": "15/8"
+    },
+    "name": "Torino v Atalanta",
+    "home": "Torino",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Atalanta",
+    "competition": "Italy Serie A",
+    "teams": ["Torino", "Atalanta"]
+}, {
+    "Full Time Result": {
+        "1": "8/1",
+        "X": "4/1",
+        "2": "4/11"
+    },
+    "name": "Benevento v AC Milan",
+    "home": "Benevento",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "11:30",
+    "game_clock": null,
+    "away": "AC Milan",
+    "competition": "Italy Serie A",
+    "teams": ["Benevento", "AC Milan"]
+}, {
+    "Full Time Result": {
+        "1": "1/1",
+        "X": "23/10",
+        "2": "3/1"
+    },
+    "name": "Bologna v Cagliari",
+    "home": "Bologna",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "14:00",
+    "game_clock": null,
+    "away": "Cagliari",
+    "competition": "Italy Serie A",
+    "teams": ["Bologna", "Cagliari"]
+}, {
+    "Full Time Result": {
+        "1": "4/7",
+        "X": "3/1",
+        "2": "5/1"
+    },
+    "name": "Fiorentina v Sassuolo",
+    "home": "Fiorentina",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "14:00",
+    "game_clock": null,
+    "away": "Sassuolo",
+    "competition": "Italy Serie A",
+    "teams": ["Fiorentina", "Sassuolo"]
+}, {
+    "Full Time Result": {
+        "1": "2/5",
+        "X": "15/4",
+        "2": "7/1"
+    },
+    "name": "Inter Milan v Chievo",
+    "home": "Inter Milan",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "14:00",
+    "game_clock": null,
+    "away": "Chievo",
+    "competition": "Italy Serie A",
+    "teams": ["Inter Milan", "Chievo"]
+}, {
+    "Full Time Result": {
+        "1": "13/5",
+        "X": "13/5",
+        "2": "1/1"
+    },
+    "name": "Sampdoria v Lazio",
+    "home": "Sampdoria",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Lazio",
+    "competition": "Italy Serie A",
+    "teams": ["Sampdoria", "Lazio"]
+}, {
+    "Full Time Result": {
+        "1": "15/8",
+        "X": "21/10",
+        "2": "13/8"
+    },
+    "name": "Crotone v Udinese",
+    "home": "Crotone",
+    "date": "Mon 04 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "Udinese",
+    "competition": "Italy Serie A",
+    "teams": ["Crotone", "Udinese"]
+}, {
+    "Full Time Result": {
+        "1": "5/2",
+        "X": "23/10",
+        "2": "23/20"
+    },
+    "name": "Verona v Genoa",
+    "home": "Verona",
+    "date": "Mon 04 Dec",
+    "inplay": false,
+    "start_time": "20:00",
+    "game_clock": null,
+    "away": "Genoa",
+    "competition": "Italy Serie A",
+    "teams": ["Verona", "Genoa"]
+}, {
+    "Full Time Result": {
+        "1": "17/10",
+        "X": "12/5",
+        "2": "6/4"
+    },
+    "name": "Cagliari v Sampdoria",
+    "home": "Cagliari",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "17:00",
+    "game_clock": null,
+    "away": "Sampdoria",
+    "competition": "Italy Serie A",
+    "teams": ["Cagliari", "Sampdoria"]
+}, {
+    "Full Time Result": {
+        "1": "11/20",
+        "X": "3/1",
+        "2": "5/1"
+    },
+    "name": "Juventus v Inter Milan",
+    "home": "Juventus",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Inter Milan",
+    "competition": "Italy Serie A",
+    "teams": ["Juventus", "Inter Milan"]
+}, {
+    "Full Time Result": {
+        "1": "17/4",
+        "X": "3/1",
+        "2": "3/5"
+    },
+    "name": "Chievo v Roma",
+    "home": "Chievo",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "11:30",
+    "game_clock": null,
+    "away": "Roma",
+    "competition": "Italy Serie A",
+    "teams": ["Chievo", "Roma"]
+}, {
+    "Full Time Result": {
+        "1": "1/4",
+        "X": "11/2",
+        "2": "8/1"
+    },
+    "name": "Napoli v Fiorentina",
+    "home": "Napoli",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "14:00",
+    "game_clock": null,
+    "away": "Fiorentina",
+    "competition": "Italy Serie A",
+    "teams": ["Napoli", "Fiorentina"]
+}, {
+    "Full Time Result": {
+        "1": "11/10",
+        "X": "23/10",
+        "2": "5/2"
+    },
+    "name": "Spal v Verona",
+    "home": "Spal",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "14:00",
+    "game_clock": null,
+    "away": "Verona",
+    "competition": "Italy Serie A",
+    "teams": ["Spal", "Verona"]
+}, {
+    "Full Time Result": {
+        "1": "2/5",
+        "X": "4/1",
+        "2": "11/2"
+    },
+    "name": "Udinese v Benevento",
+    "home": "Udinese",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "14:00",
+    "game_clock": null,
+    "away": "Benevento",
+    "competition": "Italy Serie A",
+    "teams": ["Udinese", "Benevento"]
+}, {
+    "Full Time Result": {
+        "1": "4/5",
+        "X": "5/2",
+        "2": "7/2"
+    },
+    "name": "Sassuolo v Crotone",
+    "home": "Sassuolo",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "17:00",
+    "game_clock": null,
+    "away": "Crotone",
+    "competition": "Italy Serie A",
+    "teams": ["Sassuolo", "Crotone"]
+}, {
+    "Full Time Result": {
+        "1": "8/15",
+        "X": "3/1",
+        "2": "5/1"
+    },
+    "name": "AC Milan v Bologna",
+    "home": "AC Milan",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "19:45",
+    "game_clock": null,
+    "away": "Bologna",
+    "competition": "Italy Serie A",
+    "teams": ["AC Milan", "Bologna"]
+}, {
+    "Full Time Result": {
+        "1": "2/1",
+        "X": "12/5",
+        "2": "13/10"
+    },
+    "name": "Genoa v Atalanta",
+    "home": "Genoa",
+    "date": "Mon 11 Dec",
+    "inplay": false,
+    "start_time": "18:00",
+    "game_clock": null,
+    "away": "Atalanta",
+    "competition": "Italy Serie A",
+    "teams": ["Genoa", "Atalanta"]
+}, {
+    "Full Time Result": {
+        "1": "9/20",
+        "X": "15/4",
+        "2": "5/1"
+    },
+    "name": "Lazio v Torino",
+    "home": "Lazio",
+    "date": "Mon 11 Dec",
+    "inplay": false,
+    "start_time": "20:00",
+    "game_clock": null,
+    "away": "Torino",
+    "competition": "Italy Serie A",
+    "teams": ["Lazio", "Torino"]
+}, {
+    "Full Time Result": {
+        "1": "8/1",
+        "X": "1/7",
+        "2": "12/1"
+    },
+    "name": "SC Freiburg v Hamburg",
+    "home": "SC Freiburg",
+    "date": "Fri 01 Dec",
+    "inplay": true,
+    "start_time": "",
+    "game_clock": "86:18",
+    "away": "Hamburg",
+    "competition": "Germany Bundesliga I",
+    "teams": ["SC Freiburg", "Hamburg"]
+}, {
+    "Full Time Result": {
+        "1": "6/5",
+        "X": "13/5",
+        "2": "21/10"
+    },
+    "name": "Bayer Leverkusen v Borussia Dortmund",
+    "home": "Bayer Leverkusen",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "14:30",
+    "game_clock": null,
+    "away": "Borussia Dortmund",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Bayer Leverkusen", "Borussia Dortmund"]
+}, {
+    "Full Time Result": {
+        "1": "1/7",
+        "X": "8/1",
+        "2": "16/1"
+    },
+    "name": "Bayern Munich v Hannover 96",
+    "home": "Bayern Munich",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "14:30",
+    "game_clock": null,
+    "away": "Hannover 96",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Bayern Munich", "Hannover 96"]
+}, {
+    "Full Time Result": {
+        "1": "8/5",
+        "X": "9/4",
+        "2": "9/5"
+    },
+    "name": "Mainz v Augsburg",
+    "home": "Mainz",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "14:30",
+    "game_clock": null,
+    "away": "Augsburg",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Mainz", "Augsburg"]
+}, {
+    "Full Time Result": {
+        "1": "23/10",
+        "X": "13/5",
+        "2": "11/10"
+    },
+    "name": "TSG Hoffenheim v RB Leipzig",
+    "home": "TSG Hoffenheim",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "14:30",
+    "game_clock": null,
+    "away": "RB Leipzig",
+    "competition": "Germany Bundesliga I",
+    "teams": ["TSG Hoffenheim", "RB Leipzig"]
+}, {
+    "Full Time Result": {
+        "1": "6/5",
+        "X": "12/5",
+        "2": "23/10"
+    },
+    "name": "Werder Bremen v VfB Stuttgart",
+    "home": "Werder Bremen",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "14:30",
+    "game_clock": null,
+    "away": "VfB Stuttgart",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Werder Bremen", "VfB Stuttgart"]
+}, {
+    "Full Time Result": {
+        "1": "4/9",
+        "X": "10/3",
+        "2": "7/1"
+    },
+    "name": "Schalke v Cologne",
+    "home": "Schalke",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "17:30",
+    "game_clock": null,
+    "away": "Cologne",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Schalke", "Cologne"]
+}, {
+    "Full Time Result": {
+        "1": "17/10",
+        "X": "9/4",
+        "2": "17/10"
+    },
+    "name": "Hertha Berlin v Eintracht Frankfurt",
+    "home": "Hertha Berlin",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "14:30",
+    "game_clock": null,
+    "away": "Eintracht Frankfurt",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Hertha Berlin", "Eintracht Frankfurt"]
+}, {
+    "Full Time Result": {
+        "1": "13/8",
+        "X": "12/5",
+        "2": "13/8"
+    },
+    "name": "Wolfsburg v Borussia M'gladbach",
+    "home": "Wolfsburg",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "17:00",
+    "game_clock": null,
+    "away": "Borussia M'gladbach",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Wolfsburg", "Borussia M'gladbach"]
+}, {
+    "Full Time Result": {
+        "1": "5/2",
+        "X": "5/2",
+        "2": "11/10"
+    },
+    "name": "VfB Stuttgart v Bayer Leverkusen",
+    "home": "VfB Stuttgart",
+    "date": "Fri 08 Dec",
+    "inplay": false,
+    "start_time": "19:30",
+    "game_clock": null,
+    "away": "Bayer Leverkusen",
+    "competition": "Germany Bundesliga I",
+    "teams": ["VfB Stuttgart", "Bayer Leverkusen"]
+}, {
+    "Full Time Result": {
+        "1": "2/5",
+        "X": "15/4",
+        "2": "6/1"
+    },
+    "name": "RB Leipzig v Mainz",
+    "home": "RB Leipzig",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "14:00",
+    "game_clock": null,
+    "away": "Mainz",
+    "competition": "Germany Bundesliga I",
+    "teams": ["RB Leipzig", "Mainz"]
+}, {
+    "Full Time Result": {
+        "1": "3/10",
+        "X": "9/2",
+        "2": "15/2"
+    },
+    "name": "Borussia Dortmund v Werder Bremen",
+    "home": "Borussia Dortmund",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "14:30",
+    "game_clock": null,
+    "away": "Werder Bremen",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Borussia Dortmund", "Werder Bremen"]
+}, {
+    "Full Time Result": {
+        "1": "19/4",
+        "X": "7/2",
+        "2": "1/2"
+    },
+    "name": "Eintracht Frankfurt v Bayern Munich",
+    "home": "Eintracht Frankfurt",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "14:30",
+    "game_clock": null,
+    "away": "Bayern Munich",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Eintracht Frankfurt", "Bayern Munich"]
+}, {
+    "Full Time Result": {
+        "1": "11/8",
+        "X": "12/5",
+        "2": "15/8"
+    },
+    "name": "Hamburg v Wolfsburg",
+    "home": "Hamburg",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "14:30",
+    "game_clock": null,
+    "away": "Wolfsburg",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Hamburg", "Wolfsburg"]
+}, {
+    "Full Time Result": {
+        "1": "11/10",
+        "X": "12/5",
+        "2": "12/5"
+    },
+    "name": "Borussia M'gladbach v Schalke",
+    "home": "Borussia M'gladbach",
+    "date": "Sat 09 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "Schalke",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Borussia M'gladbach", "Schalke"]
+}, {
+    "Full Time Result": {
+        "1": "23/20",
+        "X": "12/5",
+        "2": "9/4"
+    },
+    "name": "Cologne v SC Freiburg",
+    "home": "Cologne",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "12:30",
+    "game_clock": null,
+    "away": "SC Freiburg",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Cologne", "SC Freiburg"]
+}, {
+    "Full Time Result": {
+        "1": "31/20",
+        "X": "12/5",
+        "2": "13/8"
+    },
+    "name": "Hannover 96 v TSG Hoffenheim",
+    "home": "Hannover 96",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "14:30",
+    "game_clock": null,
+    "away": "TSG Hoffenheim",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Hannover 96", "TSG Hoffenheim"]
+}, {
+    "Full Time Result": {
+        "1": "1/1",
+        "X": "12/5",
+        "2": "11/4"
+    },
+    "name": "Augsburg v Hertha Berlin",
+    "home": "Augsburg",
+    "date": "Sun 10 Dec",
+    "inplay": false,
+    "start_time": "17:00",
+    "game_clock": null,
+    "away": "Hertha Berlin",
+    "competition": "Germany Bundesliga I",
+    "teams": ["Augsburg", "Hertha Berlin"]
+}, {
+    "Full Time Result": {
+        "1": "3/1",
+        "X": "4/5",
+        "2": "3/1"
+    },
+    "name": "Dijon v Bordeaux",
+    "home": "Dijon",
+    "date": "Fri 01 Dec",
+    "inplay": true,
+    "start_time": "",
+    "game_clock": "70:57",
+    "away": "Bordeaux",
+    "competition": "France Ligue 1",
+    "teams": ["Dijon", "Bordeaux"]
+}, {
+    "Full Time Result": {
+        "1": "14/1",
+        "X": "7/1",
+        "2": "1/6"
+    },
+    "name": "Strasbourg v PSG",
+    "home": "Strasbourg",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "16:00",
+    "game_clock": null,
+    "away": "PSG",
+    "competition": "France Ligue 1",
+    "teams": ["Strasbourg", "PSG"]
+}, {
+    "Full Time Result": {
+        "1": "19/20",
+        "X": "11/5",
+        "2": "10/3"
+    },
+    "name": "Lille v Toulouse",
+    "home": "Lille",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "19:00",
+    "game_clock": null,
+    "away": "Toulouse",
+    "competition": "France Ligue 1",
+    "teams": ["Lille", "Toulouse"]
+}, {
+    "Full Time Result": {
+        "1": "2/5",
+        "X": "15/4",
+        "2": "7/1"
+    },
+    "name": "Monaco v Angers",
+    "home": "Monaco",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "19:00",
+    "game_clock": null,
+    "away": "Angers",
+    "competition": "France Ligue 1",
+    "teams": ["Monaco", "Angers"]
+}, {
+    "Full Time Result": {
+        "1": "4/9",
+        "X": "3/1",
+        "2": "15/2"
+    },
+    "name": "Nice v Metz",
+    "home": "Nice",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "19:00",
+    "game_clock": null,
+    "away": "Metz",
+    "competition": "France Ligue 1",
+    "teams": ["Nice", "Metz"]
+}, {
+    "Full Time Result": {
+        "1": "1/1",
+        "X": "2/1",
+        "2": "15/4"
+    },
+    "name": "Rennes v Amiens",
+    "home": "Rennes",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "19:00",
+    "game_clock": null,
+    "away": "Amiens",
+    "competition": "France Ligue 1",
+    "teams": ["Rennes", "Amiens"]
+}, {
+    "Full Time Result": {
+        "1": "13/8",
+        "X": "21/10",
+        "2": "19/10"
+    },
+    "name": "Troyes v Guingamp",
+    "home": "Troyes",
+    "date": "Sat 02 Dec",
+    "inplay": false,
+    "start_time": "19:00",
+    "game_clock": null,
+    "away": "Guingamp",
+    "competition": "France Ligue 1",
+    "teams": ["Troyes", "Guingamp"]
+}, {
+    "Full Time Result": {
+        "1": "13/10",
+        "X": "2/1",
+        "2": "13/5"
+    },
+    "name": "St Etienne v Nantes",
+    "home": "St Etienne",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "14:00",
+    "game_clock": null,
+    "away": "Nantes",
+    "competition": "France Ligue 1",
+    "teams": ["St Etienne", "Nantes"]
+}, {
+    "Full Time Result": {
+        "1": "15/4",
+        "X": "11/4",
+        "2": "3/4"
+    },
+    "name": "Caen v Lyon",
+    "home": "Caen",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "15:00",
+    "game_clock": null,
+    "away": "Lyon",
+    "competition": "France Ligue 1",
+    "teams": ["Caen", "Lyon"]
+}, {
+    "Full Time Result": {
+        "1": "12/5",
+        "X": "23/10",
+        "2": "6/5"
+    },
+    "name": "Montpellier v Marseille",
+    "home": "Montpellier",
+    "date": "Sun 03 Dec",
+    "inplay": false,
+    "start_time": "20:00",
+    "game_clock": null,
+    "away": "Marseille",
+    "competition": "France Ligue 1",
+    "teams": ["Montpellier", "Marseille"]
+}]
